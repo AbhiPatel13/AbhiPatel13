@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhi Patel</h1>
-<h3 align="center">https://abhipatel13.github.io</h3>
+<h3 align="center">https://abhipatel13.github.io/Portfolio/</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhipatel13&label=Profile%20views&color=0e75b6&style=flat" alt="abhipatel13" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Problem Solving and Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://abhipatel13.github.io/Portfolio/](https://abhipatel13.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://abhipatel13.github.io/Portfolio/](Portfolio)
 
 - 💬 Ask me about **React,Node,PHP**
 
