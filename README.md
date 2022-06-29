@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhi Patel</h1>
-<h3 align="center">https://abhipatel13.github.io/Portfolio/</h3>
+
+<p>I'm a Full-stack Developer with strong problem-solving abilities and the ability to work effectively in a team. Skilled in NODE, REACT, C++, HTML, CSS & JAVASCRIPT. Website development and programming are two of my passions.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhipatel13&label=Profile%20views&color=0e75b6&style=flat" alt="abhipatel13" /> </p>
 
